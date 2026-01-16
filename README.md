@@ -5,7 +5,7 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">My name is John Mark Bolanon and I'm a IT Student, from University Of Mindanao</p>
 
 ###
 
