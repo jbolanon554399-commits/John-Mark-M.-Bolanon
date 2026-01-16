@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since  1930 <br>📚 I'm currently learning Japanese<br>🎯 Goals: To be Senior Cetizen Developer<br>🎲 Fun fact: ...</p>
 
 ###
 
